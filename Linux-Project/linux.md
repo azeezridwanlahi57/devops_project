@@ -6,3 +6,5 @@
 *This is my linux project*
 
 **This is my linux project**
+
+you need to learn **linux** to become a devops engineer
