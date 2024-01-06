@@ -1,4 +1,0 @@
-
-# This is my git project
-## A second-level heading
-### A third-level heading
