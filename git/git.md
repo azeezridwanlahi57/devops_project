@@ -1,1 +1,1 @@
-![linx image](Linux-project/image/docker-search.PNG)
+![linux image](Linux-Project/image/docker-search.PNG)
